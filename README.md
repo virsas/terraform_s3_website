@@ -4,7 +4,7 @@ Terraform module to make configure any bucket to a website hosting bucket.
 
 ## Dependencies
 
-S3 <https://github.com/virsas/terraform_s3_bucket>
+- S3 <https://github.com/virsas/terraform_s3_bucket>
 
 ## Terraform example
 
